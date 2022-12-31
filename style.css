@@ -1,0 +1,10 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+#window-main-screen{
+background-color: blue;
+width: 100%;
+height:100px;
+}
